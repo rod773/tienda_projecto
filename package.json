@@ -1,5 +1,6 @@
 {
   "name": "tienda_projecto",
+  "homepage": "/wp-content/themes/tienda_projecto/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
