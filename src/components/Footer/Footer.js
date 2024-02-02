@@ -3,6 +3,10 @@ import { Link } from "react-router-dom";
 import { StyledFooter } from "./Footer.styled";
 
 const Footer = () => {
+  const handleClick = () => {
+    console.log("clicked");
+  };
+
   return (
     <StyledFooter>
       <div className="container-fluid">
@@ -115,7 +119,11 @@ const Footer = () => {
                     className="form-control"
                     placeholder="Email address"
                   />
-                  <button className="btn btn-primary" type="button">
+                  <button
+                    className="btn btn-primary"
+                    type="button"
+                    onClick={handleClick}
+                  >
                     Subscribe
                   </button>
                 </div>
