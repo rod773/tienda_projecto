@@ -41,17 +41,17 @@ const Layout = () => {
                   <ul className="navbar-nav">
                     <li className="nav-item">
                       <Link to="/" className="nav-link">
-                        Home
+                        Inicio
                       </Link>
                     </li>
                     <li className="nav-item">
-                      <Link to="/blogs" className="nav-link">
-                        Blogs
+                      <Link to="/blogs" className="nav-link text-dark">
+                        Blog
                       </Link>
                     </li>
                     <li className="nav-item">
                       <Link to="/contact" className="nav-link">
-                        Contact
+                        Contacto
                       </Link>
                     </li>
                   </ul>
