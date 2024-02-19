@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/wp-content/themes/tienda_projecto/static/css/main.854d246b.css",
+    "main.js": "/wp-content/themes/tienda_projecto/static/js/main.f173b15c.js",
+    "static/media/21__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/21__AIE.d1023ec4384d7dbc4967.jpg",
+    "static/media/27__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/27__AIE.d36f21185d858b7d962d.jpg",
+    "static/media/12__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/12__AIE.a78c2f6958b92710ca6c.jpg",
+    "static/media/14__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/14__AIE.614c6594b0adebc3f273.jpg",
+    "static/media/3__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/3__AIE.3d1c2a8ff2fbcafbf884.jpg",
+    "static/media/13__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/13__AIE.bbe8f3ee52e492bb8e97.jpg",
+    "static/media/24__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/24__AIE.d6346535276bc85c3b97.jpg",
+    "static/media/22__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/22__AIE.7dcbbfd3a24824e73d2d.jpg",
+    "static/media/19__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/19__AIE.e00fd498f2876c6c15f0.jpg",
+    "static/media/25__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/25__AIE.54b079628bd8d9a9eeaa.jpg",
+    "static/media/23__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/23__AIE.267debb60361fabfa793.jpg",
+    "static/media/17__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/17__AIE.8dcf3529de3510b07861.jpg",
+    "static/media/15__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/15__AIE.600851f515ed47ebc82f.jpg",
+    "static/media/10__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/10__AIE.78165a71a6ca4479b860.jpg",
+    "static/media/26__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/26__AIE.0a153a3729c07df2e7d7.jpg",
+    "static/media/9__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/9__AIE.33e08d659af32dc98eca.jpg",
+    "static/media/5__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/5__AIE.f6b9bdee97558b6a63ec.jpg",
+    "static/media/11__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/11__AIE.0798bef86a685400049c.jpg",
+    "static/media/8__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/8__AIE.18cfa17d5e900319bc3b.jpg",
+    "static/media/1__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/1__AIE.3dda3a4fd34ddfcb8090.jpg",
+    "static/media/20__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/20__AIE.874aae3cefe12dd8c3f4.jpg",
+    "static/media/18__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/18__AIE.24c281059af7c3042807.jpg",
+    "static/media/16__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/16__AIE.b8557fdd93c68b5236c9.jpg",
+    "static/media/7__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/7__AIE.aa0cba4bf5e6394314ca.jpg",
+    "static/media/4__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/4__AIE.6efab6ccbc1370893f5d.jpg",
+    "static/media/6__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/6__AIE.d91bb624906d4304d8ab.jpg",
+    "static/media/2__AIE.jpg": "/wp-content/themes/tienda_projecto/static/media/2__AIE.af71ebd86d7e30f45e00.jpg",
+    "index.html": "/wp-content/themes/tienda_projecto/index.html",
+    "main.854d246b.css.map": "/wp-content/themes/tienda_projecto/static/css/main.854d246b.css.map",
+    "main.f173b15c.js.map": "/wp-content/themes/tienda_projecto/static/js/main.f173b15c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.854d246b.css",
+    "static/js/main.f173b15c.js"
+  ]
+}
